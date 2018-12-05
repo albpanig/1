@@ -4,7 +4,7 @@ public class LeggiEStampaEta
 {
     public static void main (String args[])
     {
-        // Impostazione per lo standard input
+        // Impostazione per lo standard inputttttttttttttttt
         InputStreamReader input = new InputStreamReader(System.in);
         BufferedReader Tastiera = new BufferedReader(input);
         int Eta;
